@@ -1,7 +1,7 @@
 const CONFIGDATA = {
   titleHeader: "To the love of my life!",
   descriptionHeader:
-    "Tatanggapin mo ba ako kahit isa akong aswang?",
+    "Tatanggapin mo ba ako kahit isa akong aswang hzhz?",
   buttonYes: "Yes",
   buttonNo: "Hatdog ka ba?",
   titleModar: "My Beloved",
